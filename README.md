@@ -1,1 +1,1 @@
-# QMClaude2
+# QMBOT
